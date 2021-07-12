@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">ft_hangouts</string>
-    <string name="main_activity_title">Welcome !</string>
+
+    <string name="main_title">Hangouts</string>
+    <string name="main_add_contact_button_text">Add Contact</string>
+
+
+    <string name="add_contact_title">Add Contact</string>
+    <string name="add_contact_cancel_img_button_description">Cancel</string>
+    <string name="add_contact_first_name_field_hint">First Name</string>
+    <string name="add_contact_name_field_hint">Name</string>
+    <string name="add_contact_alias_field_hint">Alias</string>
+    <string name="add_contact_number_field_hint">Number</string>
+    <string name="add_contact_mail_field_hint">M@il</string>
+    <string name="add_contact_save_button_text">Save</string>
+
 </resources>
